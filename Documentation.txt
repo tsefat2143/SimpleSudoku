@@ -1,0 +1,5 @@
+Overview:
+The goal of this project is to solve simple Sudoku puzzles through recursive backtracking
+
+General structure
+With the reader class, I read the textfile and passed these values through the List data structure. I then used these values and transfered them onto a 2d arrray. From here, I created methods that would check the row, column, and a small 3 x 3, obtained the answer and displayed the completed sudoku puzzle
