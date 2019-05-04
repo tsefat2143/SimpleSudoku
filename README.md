@@ -5,7 +5,7 @@
 - writes back to a csv file
 
 ## Solution 1
-<img src="solution1.png" width=400><br>
+<img src="solution1.png" width=200><br>
 
 ## Solution 2
-<img src="solution2.png" width=400><br>
+<img src="solution2.png" width=200><br>
